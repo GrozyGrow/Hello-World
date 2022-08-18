@@ -14,3 +14,6 @@ thankyou
 You too
 
 
+Who are you?
+
+Can I work with you?
